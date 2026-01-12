@@ -6,10 +6,9 @@ This repository contains simple **Python programs** to generate different patter
 
 ## 📂 Programs Included
  
-1. [Inverted Triangle](#inverted-triangle) 🔻  
-2. [Triangle](#triangle) 🔺  
-3. [Numbers in Descending Order](#numbers-in-descending-order) 🔢  
-
+1. [Triangle](#triangle) 🔺  
+2. [Numbers in Descending Order](#numbers-in-descending-order) 🔢  
+3. [Inverted Triangle](#inverted-triangle) 🔻
 ---
 
 ## Patterns Included
