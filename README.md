@@ -10,10 +10,10 @@ A triangle made of asterisks that grows with each row.
 Example for 5 rows:
 
 *
-*  *
-*  *  *
-*  *  *  *
-*  *  *  *  *
+*  * <br>
+*  *  * <br>
+*  *  *  * <br>
+*  *  *  *  * <br>
 
 
 ### 2️⃣ Numbers in Descending Order
@@ -21,11 +21,11 @@ Prints numbers in descending order starting from the input number.
 
 Example for 5:
 
-5  4  3  2  1
-4  3  2  1 
-3  2  1
-2  1
-1
+5  4  3  2  1 <br>
+4  3  2  1 <br>
+3  2  1 <br>
+2  1 <br>
+1 <br>
 
 
 ### 3️⃣ Inverted Triangle
@@ -33,11 +33,11 @@ An inverted triangle using asterisks.
 
 Example for 5 rows:
 
-*  *  *  *  *
-*  *  *  *
-*  *  *
-*  *
-*
+*  *  *  *  * <br>
+*  *  *  * <br>
+*  *  * <br>
+*  * <br>
+* <br>
 
 ## Purpose
 These programs help practice:
