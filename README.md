@@ -49,7 +49,8 @@ print ()
 
 ### Example Output
 [![Numbers](https://github.com/owaiskazmi/Patterns/blob/main/Screenshots/numbers.png)](https://github.com/owaiskazmi/Patterns/blob/main/Screenshots/numbers.png)
-###🔻 Inverted Triangle
+
+### 🔻 Inverted Triangle
 Prints an inverted triangle of stars based on the number of rows.
 
 ### Code Overview
